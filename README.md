@@ -6,8 +6,8 @@ and Economic Supplement (ASEC), 2025**, sourced via [IPUMS-CPS](https://cps.ipum
 
 The project is organized as two self-contained notebooks:
 
-- `01_Data_Cleaning_EDA_Analysis.ipynb` — data cleaning, exploratory analysis, and statistical analysis
-- `02_Machine_Learning.ipynb` — wage-prediction models and evaluation
+- `Data_Cleaning_EDA_Analysis.ipynb` — data cleaning, exploratory analysis, and statistical analysis
+- `Machine_Learning.ipynb` — wage-prediction models and evaluation
 
 ## Project Overview
 
